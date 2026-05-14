@@ -1,0 +1,6 @@
+{
+  "name": "PneumoGuard AI",
+  "description": "An advanced AI-powered pneumonia detection system using deep learning and Gemini for clinical reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
